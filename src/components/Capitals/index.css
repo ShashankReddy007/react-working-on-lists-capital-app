@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #93c5fd;
+  height: 100vh;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: white;
+  border-radius: 20px;
+  padding: 70px;
+  width: 40%;
+}
+
+.select-box {
+  margin-right: 10px;
+  padding: 13px;
+  border-radius: 8px;
+}
